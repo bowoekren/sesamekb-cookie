@@ -1,7 +1,8 @@
 ## Cookie
 sandwich sesame keyboard case.
 
-![cookie](./final.jpg)
+![cookie](./image.jpg)
+![cookie](./image-1.jpg)
 
 #### Guide
 
