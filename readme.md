@@ -1,5 +1,5 @@
 ## Cookie
-sandwich sesame keyboard case.
+a prototype sandwich sesame keyboard case.
 
 ![cookie](./image.jpg)
 ![cookie](./image-1.jpg)
@@ -21,3 +21,6 @@ sandwich sesame keyboard case.
 |---------------|-----|
 | 20mm M3 Screw | 8   |
 | M3 Nut        | 8   |
+
+
+# DO WITH YOUR OWN RISK.
